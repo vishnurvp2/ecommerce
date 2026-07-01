@@ -1,4 +1,6 @@
+import "./preload.js";
 import express from "express";
+import { runGetStarted } from "./mongodb.js";
 
 const app = express();
 const port = 3000;
@@ -8,5 +10,8 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`);
+  // log the url of the server to the console
+  console.log(`Server running at http://localhost:${port}/`);
 });
+
+runGetStarted().catch(console.dir);
