@@ -1,0 +1,3402 @@
+[
+  {
+    "name": "Toyota Camry 2023",
+    "slug": "toyota-camry-2023",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "color": "Blue",
+    "price": 52969,
+    "currency": "USD",
+    "stock": 3,
+    "sku": "CAR-0001",
+    "images": [
+      "https://example.com/images/cars/car1_1.jpg"
+    ],
+    "description": "Toyota Camry 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.8,
+      "count": 104
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Toyota Camry 2024",
+    "slug": "toyota-camry-2024",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "color": "Black",
+    "price": 35876,
+    "currency": "USD",
+    "stock": 10,
+    "sku": "CAR-0002",
+    "images": [
+      "https://example.com/images/cars/car2_1.jpg"
+    ],
+    "description": "Toyota Camry 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.1,
+      "count": 120
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Toyota Camry 2025",
+    "slug": "toyota-camry-2025",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "drivetrain": "FWD",
+    "color": "Red",
+    "price": 80572,
+    "currency": "USD",
+    "stock": 12,
+    "sku": "CAR-0003",
+    "images": [
+      "https://example.com/images/cars/car3_1.jpg"
+    ],
+    "description": "Toyota Camry 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.3,
+      "count": 442
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Toyota Corolla 2023",
+    "slug": "toyota-corolla-2023",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "color": "Blue",
+    "price": 31253,
+    "currency": "USD",
+    "stock": 22,
+    "sku": "CAR-0004",
+    "images": [
+      "https://example.com/images/cars/car4_1.jpg"
+    ],
+    "description": "Toyota Corolla 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.0,
+      "count": 346
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Toyota Corolla 2024",
+    "slug": "toyota-corolla-2024",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "drivetrain": "RWD",
+    "color": "Red",
+    "price": 27651,
+    "currency": "USD",
+    "stock": 14,
+    "sku": "CAR-0005",
+    "images": [
+      "https://example.com/images/cars/car5_1.jpg"
+    ],
+    "description": "Toyota Corolla 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.1,
+      "count": 471
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Toyota Corolla 2025",
+    "slug": "toyota-corolla-2025",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "color": "Silver",
+    "price": 46703,
+    "currency": "USD",
+    "stock": 15,
+    "sku": "CAR-0006",
+    "images": [
+      "https://example.com/images/cars/car6_1.jpg"
+    ],
+    "description": "Toyota Corolla 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.3,
+      "count": 102
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Toyota RAV4 2023",
+    "slug": "toyota-rav4-2023",
+    "brand": "Toyota",
+    "model": "RAV4",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "color": "Black",
+    "price": 60591,
+    "currency": "USD",
+    "stock": 20,
+    "sku": "CAR-0007",
+    "images": [
+      "https://example.com/images/cars/car7_1.jpg"
+    ],
+    "description": "Toyota RAV4 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.2,
+      "count": 80
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Toyota RAV4 2024",
+    "slug": "toyota-rav4-2024",
+    "brand": "Toyota",
+    "model": "RAV4",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "color": "Blue",
+    "price": 87467,
+    "currency": "USD",
+    "stock": 23,
+    "sku": "CAR-0008",
+    "images": [
+      "https://example.com/images/cars/car8_1.jpg"
+    ],
+    "description": "Toyota RAV4 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 328
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Toyota RAV4 2025",
+    "slug": "toyota-rav4-2025",
+    "brand": "Toyota",
+    "model": "RAV4",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "drivetrain": "RWD",
+    "color": "Red",
+    "price": 78970,
+    "currency": "USD",
+    "stock": 17,
+    "sku": "CAR-0009",
+    "images": [
+      "https://example.com/images/cars/car9_1.jpg"
+    ],
+    "description": "Toyota RAV4 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 5.0,
+      "count": 176
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Toyota Highlander 2023",
+    "slug": "toyota-highlander-2023",
+    "brand": "Toyota",
+    "model": "Highlander",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "color": "Gray",
+    "price": 71587,
+    "currency": "USD",
+    "stock": 6,
+    "sku": "CAR-0010",
+    "images": [
+      "https://example.com/images/cars/car10_1.jpg"
+    ],
+    "description": "Toyota Highlander 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.3,
+      "count": 174
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Toyota Highlander 2024",
+    "slug": "toyota-highlander-2024",
+    "brand": "Toyota",
+    "model": "Highlander",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "drivetrain": "RWD",
+    "color": "Red",
+    "price": 71918,
+    "currency": "USD",
+    "stock": 10,
+    "sku": "CAR-0011",
+    "images": [
+      "https://example.com/images/cars/car11_1.jpg"
+    ],
+    "description": "Toyota Highlander 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.5,
+      "count": 131
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Toyota Highlander 2025",
+    "slug": "toyota-highlander-2025",
+    "brand": "Toyota",
+    "model": "Highlander",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "drivetrain": "FWD",
+    "color": "Red",
+    "price": 44257,
+    "currency": "USD",
+    "stock": 15,
+    "sku": "CAR-0012",
+    "images": [
+      "https://example.com/images/cars/car12_1.jpg"
+    ],
+    "description": "Toyota Highlander 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.8,
+      "count": 353
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Honda Civic 2023",
+    "slug": "honda-civic-2023",
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "color": "Black",
+    "price": 77997,
+    "currency": "USD",
+    "stock": 23,
+    "sku": "CAR-0013",
+    "images": [
+      "https://example.com/images/cars/car13_1.jpg"
+    ],
+    "description": "Honda Civic 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 5.0,
+      "count": 87
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Honda Civic 2024",
+    "slug": "honda-civic-2024",
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "color": "Blue",
+    "price": 80573,
+    "currency": "USD",
+    "stock": 9,
+    "sku": "CAR-0014",
+    "images": [
+      "https://example.com/images/cars/car14_1.jpg"
+    ],
+    "description": "Honda Civic 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.1,
+      "count": 177
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Honda Civic 2025",
+    "slug": "honda-civic-2025",
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "color": "Silver",
+    "price": 61407,
+    "currency": "USD",
+    "stock": 3,
+    "sku": "CAR-0015",
+    "images": [
+      "https://example.com/images/cars/car15_1.jpg"
+    ],
+    "description": "Honda Civic 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.3,
+      "count": 364
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Honda Accord 2023",
+    "slug": "honda-accord-2023",
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "color": "White",
+    "price": 30401,
+    "currency": "USD",
+    "stock": 24,
+    "sku": "CAR-0016",
+    "images": [
+      "https://example.com/images/cars/car16_1.jpg"
+    ],
+    "description": "Honda Accord 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.4,
+      "count": 140
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Honda Accord 2024",
+    "slug": "honda-accord-2024",
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "drivetrain": "FWD",
+    "color": "White",
+    "price": 33541,
+    "currency": "USD",
+    "stock": 24,
+    "sku": "CAR-0017",
+    "images": [
+      "https://example.com/images/cars/car17_1.jpg"
+    ],
+    "description": "Honda Accord 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.4,
+      "count": 37
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Honda Accord 2025",
+    "slug": "honda-accord-2025",
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "color": "Blue",
+    "price": 58717,
+    "currency": "USD",
+    "stock": 13,
+    "sku": "CAR-0018",
+    "images": [
+      "https://example.com/images/cars/car18_1.jpg"
+    ],
+    "description": "Honda Accord 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.1,
+      "count": 419
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Honda CR-V 2023",
+    "slug": "honda-cr-v-2023",
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "drivetrain": "FWD",
+    "color": "Silver",
+    "price": 51693,
+    "currency": "USD",
+    "stock": 12,
+    "sku": "CAR-0019",
+    "images": [
+      "https://example.com/images/cars/car19_1.jpg"
+    ],
+    "description": "Honda CR-V 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 5.0,
+      "count": 292
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Honda CR-V 2024",
+    "slug": "honda-cr-v-2024",
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "color": "Black",
+    "price": 30350,
+    "currency": "USD",
+    "stock": 18,
+    "sku": "CAR-0020",
+    "images": [
+      "https://example.com/images/cars/car20_1.jpg"
+    ],
+    "description": "Honda CR-V 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.1,
+      "count": 163
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Honda CR-V 2025",
+    "slug": "honda-cr-v-2025",
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "drivetrain": "RWD",
+    "color": "Blue",
+    "price": 26900,
+    "currency": "USD",
+    "stock": 8,
+    "sku": "CAR-0021",
+    "images": [
+      "https://example.com/images/cars/car21_1.jpg"
+    ],
+    "description": "Honda CR-V 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.8,
+      "count": 266
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Honda HR-V 2023",
+    "slug": "honda-hr-v-2023",
+    "brand": "Honda",
+    "model": "HR-V",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "drivetrain": "RWD",
+    "color": "Black",
+    "price": 30284,
+    "currency": "USD",
+    "stock": 17,
+    "sku": "CAR-0022",
+    "images": [
+      "https://example.com/images/cars/car22_1.jpg"
+    ],
+    "description": "Honda HR-V 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.1,
+      "count": 408
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Honda HR-V 2024",
+    "slug": "honda-hr-v-2024",
+    "brand": "Honda",
+    "model": "HR-V",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "color": "Gray",
+    "price": 71280,
+    "currency": "USD",
+    "stock": 18,
+    "sku": "CAR-0023",
+    "images": [
+      "https://example.com/images/cars/car23_1.jpg"
+    ],
+    "description": "Honda HR-V 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.2,
+      "count": 198
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Honda HR-V 2025",
+    "slug": "honda-hr-v-2025",
+    "brand": "Honda",
+    "model": "HR-V",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "drivetrain": "RWD",
+    "color": "White",
+    "price": 39892,
+    "currency": "USD",
+    "stock": 14,
+    "sku": "CAR-0024",
+    "images": [
+      "https://example.com/images/cars/car24_1.jpg"
+    ],
+    "description": "Honda HR-V 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 265
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "BMW 3 Series 2023",
+    "slug": "bmw-3-series-2023",
+    "brand": "BMW",
+    "model": "3 Series",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "drivetrain": "FWD",
+    "color": "White",
+    "price": 68455,
+    "currency": "USD",
+    "stock": 25,
+    "sku": "CAR-0025",
+    "images": [
+      "https://example.com/images/cars/car25_1.jpg"
+    ],
+    "description": "BMW 3 Series 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.5,
+      "count": 485
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "BMW 3 Series 2024",
+    "slug": "bmw-3-series-2024",
+    "brand": "BMW",
+    "model": "3 Series",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "color": "Gray",
+    "price": 80139,
+    "currency": "USD",
+    "stock": 15,
+    "sku": "CAR-0026",
+    "images": [
+      "https://example.com/images/cars/car26_1.jpg"
+    ],
+    "description": "BMW 3 Series 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.2,
+      "count": 440
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "BMW 3 Series 2025",
+    "slug": "bmw-3-series-2025",
+    "brand": "BMW",
+    "model": "3 Series",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "drivetrain": "FWD",
+    "color": "White",
+    "price": 45668,
+    "currency": "USD",
+    "stock": 21,
+    "sku": "CAR-0027",
+    "images": [
+      "https://example.com/images/cars/car27_1.jpg"
+    ],
+    "description": "BMW 3 Series 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.8,
+      "count": 217
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "BMW 5 Series 2023",
+    "slug": "bmw-5-series-2023",
+    "brand": "BMW",
+    "model": "5 Series",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "color": "Blue",
+    "price": 84904,
+    "currency": "USD",
+    "stock": 7,
+    "sku": "CAR-0028",
+    "images": [
+      "https://example.com/images/cars/car28_1.jpg"
+    ],
+    "description": "BMW 5 Series 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 364
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "BMW 5 Series 2024",
+    "slug": "bmw-5-series-2024",
+    "brand": "BMW",
+    "model": "5 Series",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "color": "Blue",
+    "price": 52761,
+    "currency": "USD",
+    "stock": 18,
+    "sku": "CAR-0029",
+    "images": [
+      "https://example.com/images/cars/car29_1.jpg"
+    ],
+    "description": "BMW 5 Series 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 295
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "BMW 5 Series 2025",
+    "slug": "bmw-5-series-2025",
+    "brand": "BMW",
+    "model": "5 Series",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "drivetrain": "FWD",
+    "color": "Blue",
+    "price": 24941,
+    "currency": "USD",
+    "stock": 8,
+    "sku": "CAR-0030",
+    "images": [
+      "https://example.com/images/cars/car30_1.jpg"
+    ],
+    "description": "BMW 5 Series 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.3,
+      "count": 171
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "BMW X3 2023",
+    "slug": "bmw-x3-2023",
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "color": "Silver",
+    "price": 74302,
+    "currency": "USD",
+    "stock": 10,
+    "sku": "CAR-0031",
+    "images": [
+      "https://example.com/images/cars/car31_1.jpg"
+    ],
+    "description": "BMW X3 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 190
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "BMW X3 2024",
+    "slug": "bmw-x3-2024",
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "color": "Gray",
+    "price": 56858,
+    "currency": "USD",
+    "stock": 22,
+    "sku": "CAR-0032",
+    "images": [
+      "https://example.com/images/cars/car32_1.jpg"
+    ],
+    "description": "BMW X3 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.3,
+      "count": 470
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "BMW X3 2025",
+    "slug": "bmw-x3-2025",
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "drivetrain": "FWD",
+    "color": "Silver",
+    "price": 43867,
+    "currency": "USD",
+    "stock": 13,
+    "sku": "CAR-0033",
+    "images": [
+      "https://example.com/images/cars/car33_1.jpg"
+    ],
+    "description": "BMW X3 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.2,
+      "count": 120
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "BMW X5 2023",
+    "slug": "bmw-x5-2023",
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "drivetrain": "FWD",
+    "color": "Blue",
+    "price": 86738,
+    "currency": "USD",
+    "stock": 11,
+    "sku": "CAR-0034",
+    "images": [
+      "https://example.com/images/cars/car34_1.jpg"
+    ],
+    "description": "BMW X5 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.8,
+      "count": 373
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "BMW X5 2024",
+    "slug": "bmw-x5-2024",
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "drivetrain": "FWD",
+    "color": "Blue",
+    "price": 36027,
+    "currency": "USD",
+    "stock": 18,
+    "sku": "CAR-0035",
+    "images": [
+      "https://example.com/images/cars/car35_1.jpg"
+    ],
+    "description": "BMW X5 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.1,
+      "count": 240
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "BMW X5 2025",
+    "slug": "bmw-x5-2025",
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "color": "White",
+    "price": 52409,
+    "currency": "USD",
+    "stock": 20,
+    "sku": "CAR-0036",
+    "images": [
+      "https://example.com/images/cars/car36_1.jpg"
+    ],
+    "description": "BMW X5 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 89
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Mercedes-Benz C-Class 2023",
+    "slug": "mercedes-benz-c-class-2023",
+    "brand": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "color": "White",
+    "price": 23749,
+    "currency": "USD",
+    "stock": 25,
+    "sku": "CAR-0037",
+    "images": [
+      "https://example.com/images/cars/car37_1.jpg"
+    ],
+    "description": "Mercedes-Benz C-Class 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 438
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Mercedes-Benz C-Class 2024",
+    "slug": "mercedes-benz-c-class-2024",
+    "brand": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "drivetrain": "FWD",
+    "color": "Red",
+    "price": 24926,
+    "currency": "USD",
+    "stock": 22,
+    "sku": "CAR-0038",
+    "images": [
+      "https://example.com/images/cars/car38_1.jpg"
+    ],
+    "description": "Mercedes-Benz C-Class 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.1,
+      "count": 235
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Mercedes-Benz C-Class 2025",
+    "slug": "mercedes-benz-c-class-2025",
+    "brand": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "drivetrain": "FWD",
+    "color": "Red",
+    "price": 87185,
+    "currency": "USD",
+    "stock": 21,
+    "sku": "CAR-0039",
+    "images": [
+      "https://example.com/images/cars/car39_1.jpg"
+    ],
+    "description": "Mercedes-Benz C-Class 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.4,
+      "count": 87
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Mercedes-Benz E-Class 2023",
+    "slug": "mercedes-benz-e-class-2023",
+    "brand": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "color": "Black",
+    "price": 44770,
+    "currency": "USD",
+    "stock": 5,
+    "sku": "CAR-0040",
+    "images": [
+      "https://example.com/images/cars/car40_1.jpg"
+    ],
+    "description": "Mercedes-Benz E-Class 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.1,
+      "count": 271
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Mercedes-Benz E-Class 2024",
+    "slug": "mercedes-benz-e-class-2024",
+    "brand": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "color": "Silver",
+    "price": 37103,
+    "currency": "USD",
+    "stock": 22,
+    "sku": "CAR-0041",
+    "images": [
+      "https://example.com/images/cars/car41_1.jpg"
+    ],
+    "description": "Mercedes-Benz E-Class 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 226
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Mercedes-Benz E-Class 2025",
+    "slug": "mercedes-benz-e-class-2025",
+    "brand": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "drivetrain": "FWD",
+    "color": "Red",
+    "price": 85779,
+    "currency": "USD",
+    "stock": 13,
+    "sku": "CAR-0042",
+    "images": [
+      "https://example.com/images/cars/car42_1.jpg"
+    ],
+    "description": "Mercedes-Benz E-Class 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.4,
+      "count": 29
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Mercedes-Benz GLC 2023",
+    "slug": "mercedes-benz-glc-2023",
+    "brand": "Mercedes-Benz",
+    "model": "GLC",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "drivetrain": "FWD",
+    "color": "Gray",
+    "price": 60413,
+    "currency": "USD",
+    "stock": 25,
+    "sku": "CAR-0043",
+    "images": [
+      "https://example.com/images/cars/car43_1.jpg"
+    ],
+    "description": "Mercedes-Benz GLC 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.1,
+      "count": 310
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Mercedes-Benz GLC 2024",
+    "slug": "mercedes-benz-glc-2024",
+    "brand": "Mercedes-Benz",
+    "model": "GLC",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "drivetrain": "FWD",
+    "color": "Blue",
+    "price": 47807,
+    "currency": "USD",
+    "stock": 10,
+    "sku": "CAR-0044",
+    "images": [
+      "https://example.com/images/cars/car44_1.jpg"
+    ],
+    "description": "Mercedes-Benz GLC 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.2,
+      "count": 338
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Mercedes-Benz GLC 2025",
+    "slug": "mercedes-benz-glc-2025",
+    "brand": "Mercedes-Benz",
+    "model": "GLC",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "drivetrain": "RWD",
+    "color": "Blue",
+    "price": 76297,
+    "currency": "USD",
+    "stock": 11,
+    "sku": "CAR-0045",
+    "images": [
+      "https://example.com/images/cars/car45_1.jpg"
+    ],
+    "description": "Mercedes-Benz GLC 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 496
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Mercedes-Benz GLE 2023",
+    "slug": "mercedes-benz-gle-2023",
+    "brand": "Mercedes-Benz",
+    "model": "GLE",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "color": "Blue",
+    "price": 57250,
+    "currency": "USD",
+    "stock": 16,
+    "sku": "CAR-0046",
+    "images": [
+      "https://example.com/images/cars/car46_1.jpg"
+    ],
+    "description": "Mercedes-Benz GLE 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 5.0,
+      "count": 108
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Mercedes-Benz GLE 2024",
+    "slug": "mercedes-benz-gle-2024",
+    "brand": "Mercedes-Benz",
+    "model": "GLE",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "drivetrain": "FWD",
+    "color": "Gray",
+    "price": 24507,
+    "currency": "USD",
+    "stock": 24,
+    "sku": "CAR-0047",
+    "images": [
+      "https://example.com/images/cars/car47_1.jpg"
+    ],
+    "description": "Mercedes-Benz GLE 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.8,
+      "count": 416
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Mercedes-Benz GLE 2025",
+    "slug": "mercedes-benz-gle-2025",
+    "brand": "Mercedes-Benz",
+    "model": "GLE",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "color": "Blue",
+    "price": 48786,
+    "currency": "USD",
+    "stock": 20,
+    "sku": "CAR-0048",
+    "images": [
+      "https://example.com/images/cars/car48_1.jpg"
+    ],
+    "description": "Mercedes-Benz GLE 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 207
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Audi A4 2023",
+    "slug": "audi-a4-2023",
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "drivetrain": "RWD",
+    "color": "Red",
+    "price": 22584,
+    "currency": "USD",
+    "stock": 22,
+    "sku": "CAR-0049",
+    "images": [
+      "https://example.com/images/cars/car49_1.jpg"
+    ],
+    "description": "Audi A4 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.3,
+      "count": 91
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Audi A4 2024",
+    "slug": "audi-a4-2024",
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "color": "Silver",
+    "price": 76693,
+    "currency": "USD",
+    "stock": 24,
+    "sku": "CAR-0050",
+    "images": [
+      "https://example.com/images/cars/car50_1.jpg"
+    ],
+    "description": "Audi A4 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.5,
+      "count": 418
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Audi A4 2025",
+    "slug": "audi-a4-2025",
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "color": "Black",
+    "price": 58593,
+    "currency": "USD",
+    "stock": 5,
+    "sku": "CAR-0051",
+    "images": [
+      "https://example.com/images/cars/car51_1.jpg"
+    ],
+    "description": "Audi A4 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 250
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Audi A6 2023",
+    "slug": "audi-a6-2023",
+    "brand": "Audi",
+    "model": "A6",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "color": "Black",
+    "price": 59350,
+    "currency": "USD",
+    "stock": 5,
+    "sku": "CAR-0052",
+    "images": [
+      "https://example.com/images/cars/car52_1.jpg"
+    ],
+    "description": "Audi A6 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 443
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Audi A6 2024",
+    "slug": "audi-a6-2024",
+    "brand": "Audi",
+    "model": "A6",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "drivetrain": "FWD",
+    "color": "White",
+    "price": 42772,
+    "currency": "USD",
+    "stock": 15,
+    "sku": "CAR-0053",
+    "images": [
+      "https://example.com/images/cars/car53_1.jpg"
+    ],
+    "description": "Audi A6 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.8,
+      "count": 332
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Audi A6 2025",
+    "slug": "audi-a6-2025",
+    "brand": "Audi",
+    "model": "A6",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "drivetrain": "FWD",
+    "color": "Red",
+    "price": 63333,
+    "currency": "USD",
+    "stock": 16,
+    "sku": "CAR-0054",
+    "images": [
+      "https://example.com/images/cars/car54_1.jpg"
+    ],
+    "description": "Audi A6 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 78
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Audi Q5 2023",
+    "slug": "audi-q5-2023",
+    "brand": "Audi",
+    "model": "Q5",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "color": "Red",
+    "price": 60610,
+    "currency": "USD",
+    "stock": 2,
+    "sku": "CAR-0055",
+    "images": [
+      "https://example.com/images/cars/car55_1.jpg"
+    ],
+    "description": "Audi Q5 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.3,
+      "count": 103
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Audi Q5 2024",
+    "slug": "audi-q5-2024",
+    "brand": "Audi",
+    "model": "Q5",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "color": "White",
+    "price": 33106,
+    "currency": "USD",
+    "stock": 16,
+    "sku": "CAR-0056",
+    "images": [
+      "https://example.com/images/cars/car56_1.jpg"
+    ],
+    "description": "Audi Q5 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.2,
+      "count": 466
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Audi Q5 2025",
+    "slug": "audi-q5-2025",
+    "brand": "Audi",
+    "model": "Q5",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "color": "White",
+    "price": 50030,
+    "currency": "USD",
+    "stock": 16,
+    "sku": "CAR-0057",
+    "images": [
+      "https://example.com/images/cars/car57_1.jpg"
+    ],
+    "description": "Audi Q5 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.3,
+      "count": 389
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Audi Q7 2023",
+    "slug": "audi-q7-2023",
+    "brand": "Audi",
+    "model": "Q7",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "color": "Blue",
+    "price": 37681,
+    "currency": "USD",
+    "stock": 24,
+    "sku": "CAR-0058",
+    "images": [
+      "https://example.com/images/cars/car58_1.jpg"
+    ],
+    "description": "Audi Q7 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.4,
+      "count": 371
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Audi Q7 2024",
+    "slug": "audi-q7-2024",
+    "brand": "Audi",
+    "model": "Q7",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "drivetrain": "FWD",
+    "color": "Red",
+    "price": 27395,
+    "currency": "USD",
+    "stock": 11,
+    "sku": "CAR-0059",
+    "images": [
+      "https://example.com/images/cars/car59_1.jpg"
+    ],
+    "description": "Audi Q7 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.1,
+      "count": 12
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Audi Q7 2025",
+    "slug": "audi-q7-2025",
+    "brand": "Audi",
+    "model": "Q7",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "drivetrain": "RWD",
+    "color": "White",
+    "price": 42657,
+    "currency": "USD",
+    "stock": 24,
+    "sku": "CAR-0060",
+    "images": [
+      "https://example.com/images/cars/car60_1.jpg"
+    ],
+    "description": "Audi Q7 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.8,
+      "count": 7
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Tesla Model 3 2023",
+    "slug": "tesla-model-3-2023",
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "color": "Silver",
+    "price": 23612,
+    "currency": "USD",
+    "stock": 20,
+    "sku": "CAR-0061",
+    "images": [
+      "https://example.com/images/cars/car61_1.jpg"
+    ],
+    "description": "Tesla Model 3 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.4,
+      "count": 265
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Tesla Model 3 2024",
+    "slug": "tesla-model-3-2024",
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "color": "White",
+    "price": 51134,
+    "currency": "USD",
+    "stock": 19,
+    "sku": "CAR-0062",
+    "images": [
+      "https://example.com/images/cars/car62_1.jpg"
+    ],
+    "description": "Tesla Model 3 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.1,
+      "count": 381
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Tesla Model 3 2025",
+    "slug": "tesla-model-3-2025",
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "color": "Silver",
+    "price": 88313,
+    "currency": "USD",
+    "stock": 24,
+    "sku": "CAR-0063",
+    "images": [
+      "https://example.com/images/cars/car63_1.jpg"
+    ],
+    "description": "Tesla Model 3 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.4,
+      "count": 198
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Tesla Model Y 2023",
+    "slug": "tesla-model-y-2023",
+    "brand": "Tesla",
+    "model": "Model Y",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "color": "Black",
+    "price": 52210,
+    "currency": "USD",
+    "stock": 19,
+    "sku": "CAR-0064",
+    "images": [
+      "https://example.com/images/cars/car64_1.jpg"
+    ],
+    "description": "Tesla Model Y 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.2,
+      "count": 464
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Tesla Model Y 2024",
+    "slug": "tesla-model-y-2024",
+    "brand": "Tesla",
+    "model": "Model Y",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "drivetrain": "FWD",
+    "color": "Silver",
+    "price": 78123,
+    "currency": "USD",
+    "stock": 1,
+    "sku": "CAR-0065",
+    "images": [
+      "https://example.com/images/cars/car65_1.jpg"
+    ],
+    "description": "Tesla Model Y 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 266
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Tesla Model Y 2025",
+    "slug": "tesla-model-y-2025",
+    "brand": "Tesla",
+    "model": "Model Y",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "color": "Blue",
+    "price": 74219,
+    "currency": "USD",
+    "stock": 1,
+    "sku": "CAR-0066",
+    "images": [
+      "https://example.com/images/cars/car66_1.jpg"
+    ],
+    "description": "Tesla Model Y 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 209
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Tesla Model S 2023",
+    "slug": "tesla-model-s-2023",
+    "brand": "Tesla",
+    "model": "Model S",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "color": "Red",
+    "price": 25657,
+    "currency": "USD",
+    "stock": 13,
+    "sku": "CAR-0067",
+    "images": [
+      "https://example.com/images/cars/car67_1.jpg"
+    ],
+    "description": "Tesla Model S 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.1,
+      "count": 30
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Tesla Model S 2024",
+    "slug": "tesla-model-s-2024",
+    "brand": "Tesla",
+    "model": "Model S",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Electric",
+    "transmission": "Manual",
+    "drivetrain": "FWD",
+    "color": "White",
+    "price": 62367,
+    "currency": "USD",
+    "stock": 19,
+    "sku": "CAR-0068",
+    "images": [
+      "https://example.com/images/cars/car68_1.jpg"
+    ],
+    "description": "Tesla Model S 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.1,
+      "count": 297
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Tesla Model S 2025",
+    "slug": "tesla-model-s-2025",
+    "brand": "Tesla",
+    "model": "Model S",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Electric",
+    "transmission": "Manual",
+    "drivetrain": "FWD",
+    "color": "Gray",
+    "price": 38992,
+    "currency": "USD",
+    "stock": 12,
+    "sku": "CAR-0069",
+    "images": [
+      "https://example.com/images/cars/car69_1.jpg"
+    ],
+    "description": "Tesla Model S 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.5,
+      "count": 101
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Tesla Model X 2023",
+    "slug": "tesla-model-x-2023",
+    "brand": "Tesla",
+    "model": "Model X",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Electric",
+    "transmission": "Manual",
+    "drivetrain": "RWD",
+    "color": "White",
+    "price": 52892,
+    "currency": "USD",
+    "stock": 15,
+    "sku": "CAR-0070",
+    "images": [
+      "https://example.com/images/cars/car70_1.jpg"
+    ],
+    "description": "Tesla Model X 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 162
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Tesla Model X 2024",
+    "slug": "tesla-model-x-2024",
+    "brand": "Tesla",
+    "model": "Model X",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "color": "Red",
+    "price": 80399,
+    "currency": "USD",
+    "stock": 1,
+    "sku": "CAR-0071",
+    "images": [
+      "https://example.com/images/cars/car71_1.jpg"
+    ],
+    "description": "Tesla Model X 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 187
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Tesla Model X 2025",
+    "slug": "tesla-model-x-2025",
+    "brand": "Tesla",
+    "model": "Model X",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Electric",
+    "transmission": "Manual",
+    "drivetrain": "RWD",
+    "color": "Gray",
+    "price": 81308,
+    "currency": "USD",
+    "stock": 14,
+    "sku": "CAR-0072",
+    "images": [
+      "https://example.com/images/cars/car72_1.jpg"
+    ],
+    "description": "Tesla Model X 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 41
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Hyundai Elantra 2023",
+    "slug": "hyundai-elantra-2023",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "color": "Gray",
+    "price": 61750,
+    "currency": "USD",
+    "stock": 1,
+    "sku": "CAR-0073",
+    "images": [
+      "https://example.com/images/cars/car73_1.jpg"
+    ],
+    "description": "Hyundai Elantra 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.4,
+      "count": 33
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Hyundai Elantra 2024",
+    "slug": "hyundai-elantra-2024",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "color": "Black",
+    "price": 35935,
+    "currency": "USD",
+    "stock": 17,
+    "sku": "CAR-0074",
+    "images": [
+      "https://example.com/images/cars/car74_1.jpg"
+    ],
+    "description": "Hyundai Elantra 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.1,
+      "count": 85
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Hyundai Elantra 2025",
+    "slug": "hyundai-elantra-2025",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "drivetrain": "FWD",
+    "color": "Blue",
+    "price": 26077,
+    "currency": "USD",
+    "stock": 9,
+    "sku": "CAR-0075",
+    "images": [
+      "https://example.com/images/cars/car75_1.jpg"
+    ],
+    "description": "Hyundai Elantra 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 61
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Hyundai Sonata 2023",
+    "slug": "hyundai-sonata-2023",
+    "brand": "Hyundai",
+    "model": "Sonata",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "drivetrain": "FWD",
+    "color": "Red",
+    "price": 22213,
+    "currency": "USD",
+    "stock": 2,
+    "sku": "CAR-0076",
+    "images": [
+      "https://example.com/images/cars/car76_1.jpg"
+    ],
+    "description": "Hyundai Sonata 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 466
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Hyundai Sonata 2024",
+    "slug": "hyundai-sonata-2024",
+    "brand": "Hyundai",
+    "model": "Sonata",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "drivetrain": "FWD",
+    "color": "Black",
+    "price": 36020,
+    "currency": "USD",
+    "stock": 6,
+    "sku": "CAR-0077",
+    "images": [
+      "https://example.com/images/cars/car77_1.jpg"
+    ],
+    "description": "Hyundai Sonata 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 86
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Hyundai Sonata 2025",
+    "slug": "hyundai-sonata-2025",
+    "brand": "Hyundai",
+    "model": "Sonata",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "color": "Silver",
+    "price": 37229,
+    "currency": "USD",
+    "stock": 19,
+    "sku": "CAR-0078",
+    "images": [
+      "https://example.com/images/cars/car78_1.jpg"
+    ],
+    "description": "Hyundai Sonata 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.0,
+      "count": 336
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Hyundai Tucson 2023",
+    "slug": "hyundai-tucson-2023",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "drivetrain": "RWD",
+    "color": "Red",
+    "price": 54387,
+    "currency": "USD",
+    "stock": 13,
+    "sku": "CAR-0079",
+    "images": [
+      "https://example.com/images/cars/car79_1.jpg"
+    ],
+    "description": "Hyundai Tucson 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.1,
+      "count": 120
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Hyundai Tucson 2024",
+    "slug": "hyundai-tucson-2024",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "drivetrain": "FWD",
+    "color": "Gray",
+    "price": 47442,
+    "currency": "USD",
+    "stock": 6,
+    "sku": "CAR-0080",
+    "images": [
+      "https://example.com/images/cars/car80_1.jpg"
+    ],
+    "description": "Hyundai Tucson 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.6,
+      "count": 384
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Hyundai Tucson 2025",
+    "slug": "hyundai-tucson-2025",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "drivetrain": "FWD",
+    "color": "Gray",
+    "price": 53539,
+    "currency": "USD",
+    "stock": 23,
+    "sku": "CAR-0081",
+    "images": [
+      "https://example.com/images/cars/car81_1.jpg"
+    ],
+    "description": "Hyundai Tucson 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 300
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Hyundai Santa Fe 2023",
+    "slug": "hyundai-santa-fe-2023",
+    "brand": "Hyundai",
+    "model": "Santa Fe",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "drivetrain": "FWD",
+    "color": "Black",
+    "price": 87852,
+    "currency": "USD",
+    "stock": 21,
+    "sku": "CAR-0082",
+    "images": [
+      "https://example.com/images/cars/car82_1.jpg"
+    ],
+    "description": "Hyundai Santa Fe 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.1,
+      "count": 85
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Hyundai Santa Fe 2024",
+    "slug": "hyundai-santa-fe-2024",
+    "brand": "Hyundai",
+    "model": "Santa Fe",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "color": "Silver",
+    "price": 39363,
+    "currency": "USD",
+    "stock": 18,
+    "sku": "CAR-0083",
+    "images": [
+      "https://example.com/images/cars/car83_1.jpg"
+    ],
+    "description": "Hyundai Santa Fe 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 154
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Hyundai Santa Fe 2025",
+    "slug": "hyundai-santa-fe-2025",
+    "brand": "Hyundai",
+    "model": "Santa Fe",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "color": "Gray",
+    "price": 60721,
+    "currency": "USD",
+    "stock": 21,
+    "sku": "CAR-0084",
+    "images": [
+      "https://example.com/images/cars/car84_1.jpg"
+    ],
+    "description": "Hyundai Santa Fe 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.1,
+      "count": 239
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Kia K5 2023",
+    "slug": "kia-k5-2023",
+    "brand": "Kia",
+    "model": "K5",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "drivetrain": "RWD",
+    "color": "White",
+    "price": 74494,
+    "currency": "USD",
+    "stock": 1,
+    "sku": "CAR-0085",
+    "images": [
+      "https://example.com/images/cars/car85_1.jpg"
+    ],
+    "description": "Kia K5 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 444
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Kia K5 2024",
+    "slug": "kia-k5-2024",
+    "brand": "Kia",
+    "model": "K5",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "drivetrain": "RWD",
+    "color": "Silver",
+    "price": 47608,
+    "currency": "USD",
+    "stock": 22,
+    "sku": "CAR-0086",
+    "images": [
+      "https://example.com/images/cars/car86_1.jpg"
+    ],
+    "description": "Kia K5 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 300
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Kia K5 2025",
+    "slug": "kia-k5-2025",
+    "brand": "Kia",
+    "model": "K5",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "Sedan",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "color": "Blue",
+    "price": 47720,
+    "currency": "USD",
+    "stock": 1,
+    "sku": "CAR-0087",
+    "images": [
+      "https://example.com/images/cars/car87_1.jpg"
+    ],
+    "description": "Kia K5 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 326
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Kia Sportage 2023",
+    "slug": "kia-sportage-2023",
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "color": "Silver",
+    "price": 79104,
+    "currency": "USD",
+    "stock": 2,
+    "sku": "CAR-0088",
+    "images": [
+      "https://example.com/images/cars/car88_1.jpg"
+    ],
+    "description": "Kia Sportage 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.3,
+      "count": 361
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Kia Sportage 2024",
+    "slug": "kia-sportage-2024",
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "color": "Gray",
+    "price": 50366,
+    "currency": "USD",
+    "stock": 12,
+    "sku": "CAR-0089",
+    "images": [
+      "https://example.com/images/cars/car89_1.jpg"
+    ],
+    "description": "Kia Sportage 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.7,
+      "count": 363
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Kia Sportage 2025",
+    "slug": "kia-sportage-2025",
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "drivetrain": "FWD",
+    "color": "Silver",
+    "price": 78979,
+    "currency": "USD",
+    "stock": 10,
+    "sku": "CAR-0090",
+    "images": [
+      "https://example.com/images/cars/car90_1.jpg"
+    ],
+    "description": "Kia Sportage 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.5,
+      "count": 71
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Kia Sorento 2023",
+    "slug": "kia-sorento-2023",
+    "brand": "Kia",
+    "model": "Sorento",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "color": "Red",
+    "price": 42677,
+    "currency": "USD",
+    "stock": 25,
+    "sku": "CAR-0091",
+    "images": [
+      "https://example.com/images/cars/car91_1.jpg"
+    ],
+    "description": "Kia Sorento 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.3,
+      "count": 264
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Kia Sorento 2024",
+    "slug": "kia-sorento-2024",
+    "brand": "Kia",
+    "model": "Sorento",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "drivetrain": "FWD",
+    "color": "Blue",
+    "price": 57686,
+    "currency": "USD",
+    "stock": 21,
+    "sku": "CAR-0092",
+    "images": [
+      "https://example.com/images/cars/car92_1.jpg"
+    ],
+    "description": "Kia Sorento 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.5,
+      "count": 212
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Kia Sorento 2025",
+    "slug": "kia-sorento-2025",
+    "brand": "Kia",
+    "model": "Sorento",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "drivetrain": "AWD",
+    "color": "Blue",
+    "price": 75996,
+    "currency": "USD",
+    "stock": 20,
+    "sku": "CAR-0093",
+    "images": [
+      "https://example.com/images/cars/car93_1.jpg"
+    ],
+    "description": "Kia Sorento 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.5,
+      "count": 204
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Kia Seltos 2023",
+    "slug": "kia-seltos-2023",
+    "brand": "Kia",
+    "model": "Seltos",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "color": "White",
+    "price": 77330,
+    "currency": "USD",
+    "stock": 23,
+    "sku": "CAR-0094",
+    "images": [
+      "https://example.com/images/cars/car94_1.jpg"
+    ],
+    "description": "Kia Seltos 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 433
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Kia Seltos 2024",
+    "slug": "kia-seltos-2024",
+    "brand": "Kia",
+    "model": "Seltos",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "color": "Gray",
+    "price": 83576,
+    "currency": "USD",
+    "stock": 4,
+    "sku": "CAR-0095",
+    "images": [
+      "https://example.com/images/cars/car95_1.jpg"
+    ],
+    "description": "Kia Seltos 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.4,
+      "count": 410
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Kia Seltos 2025",
+    "slug": "kia-seltos-2025",
+    "brand": "Kia",
+    "model": "Seltos",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "drivetrain": "AWD",
+    "color": "Blue",
+    "price": 59696,
+    "currency": "USD",
+    "stock": 23,
+    "sku": "CAR-0096",
+    "images": [
+      "https://example.com/images/cars/car96_1.jpg"
+    ],
+    "description": "Kia Seltos 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.3,
+      "count": 411
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Ford Mustang 2023",
+    "slug": "ford-mustang-2023",
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "Coupe",
+    "fuelType": "Diesel",
+    "transmission": "Manual",
+    "drivetrain": "FWD",
+    "color": "Blue",
+    "price": 85618,
+    "currency": "USD",
+    "stock": 19,
+    "sku": "CAR-0097",
+    "images": [
+      "https://example.com/images/cars/car97_1.jpg"
+    ],
+    "description": "Ford Mustang 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.2,
+      "count": 26
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Ford Mustang 2024",
+    "slug": "ford-mustang-2024",
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2024,
+    "category": "Car",
+    "bodyType": "Coupe",
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "color": "Silver",
+    "price": 29938,
+    "currency": "USD",
+    "stock": 18,
+    "sku": "CAR-0098",
+    "images": [
+      "https://example.com/images/cars/car98_1.jpg"
+    ],
+    "description": "Ford Mustang 2024 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.2,
+      "count": 265
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Ford Mustang 2025",
+    "slug": "ford-mustang-2025",
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2025,
+    "category": "Car",
+    "bodyType": "Coupe",
+    "fuelType": "Hybrid",
+    "transmission": "Manual",
+    "drivetrain": "RWD",
+    "color": "Gray",
+    "price": 28970,
+    "currency": "USD",
+    "stock": 4,
+    "sku": "CAR-0099",
+    "images": [
+      "https://example.com/images/cars/car99_1.jpg"
+    ],
+    "description": "Ford Mustang 2025 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.2,
+      "count": 18
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "name": "Ford Escape 2023",
+    "slug": "ford-escape-2023",
+    "brand": "Ford",
+    "model": "Escape",
+    "year": 2023,
+    "category": "Car",
+    "bodyType": "SUV",
+    "fuelType": "Hybrid",
+    "transmission": "Automatic",
+    "drivetrain": "RWD",
+    "color": "Gray",
+    "price": 73250,
+    "currency": "USD",
+    "stock": 25,
+    "sku": "CAR-0100",
+    "images": [
+      "https://example.com/images/cars/car100_1.jpg"
+    ],
+    "description": "Ford Escape 2023 with modern features and comfortable interior.",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Apple CarPlay",
+      "Android Auto",
+      "Cruise Control"
+    ],
+    "ratings": {
+      "average": 4.4,
+      "count": 211
+    },
+    "createdAt": "2026-07-06T00:00:00.000Z",
+    "updatedAt": "2026-07-06T00:00:00.000Z"
+  }
+]
