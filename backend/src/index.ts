@@ -1,15 +1,17 @@
-import "./preload.js";
+import "./load_environment_variables.js";
 import express from "express";
-
+import products from "./routes/productsRoute.js";
 const app = express();
-// get port from environment variable PORT or use 3000 as default
 const port = process.env.PORT || 3000;
 
+app.use(express.json());
+
 app.get("/", (req, res) => {
-  res.send("Hello World!");
+  res.send("Welcome to the E-commerce Backend!");
 });
 
+app.use("/api/products", products);
+
 app.listen(port, () => {
-  // log the url of the server to the console
   console.log(`Server running at http://localhost:${port}/`);
 });

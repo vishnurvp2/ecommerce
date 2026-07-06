@@ -1,11 +1,11 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
-import './App.css'
+import { useState } from "react";
+import reactLogo from "./assets/react.svg";
+import viteLogo from "./assets/vite.svg";
+import heroImg from "./assets/hero.png";
+import "./App.css";
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(0);
 
   return (
     <>
@@ -116,7 +116,46 @@ function App() {
       <div className="ticks"></div>
       <section id="spacer"></section>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
+
+// async function fetchAllProductsInBatches() {
+//   let allProducts = [];
+//   let currentPage = 1;
+//   const limitPerPage = 50;
+//   let keepFetching = true;
+
+//   console.log('Starting batch fetch...');
+
+//   while (keepFetching) {
+//     try {
+//       // Construct the URL with page and limit queries
+//       const response = await fetch(`/api/products?page=${currentPage}&limit=${limitPerPage}`);
+
+//       if (!response.ok) {
+//         throw new Error(`Server error: ${response.status}`);
+//       }
+
+//       const data = await response.json();
+
+//       // Combine newly fetched products into your master list
+//       allProducts = [...allProducts, ...data.products];
+//       console.log(`Fetched page ${currentPage}. Total products collected: ${allProducts.length}`);
+
+//       // Check if the server says there are more products left
+//       keepFetching = data.metadata.hasMore;
+
+//       if (keepFetching) {
+//         currentPage++; // Prepare to request the next block
+//       }
+//     } catch (error) {
+//       console.error('Failed to fetch batch:', error);
+//       keepFetching = false; // Stop the loop on network/server errors
+//     }
+//   }
+
+//   console.log('All products successfully loaded into memory:', allProducts);
+//   return allProducts;
+// }
